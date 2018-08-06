@@ -11,4 +11,4 @@ Hint:
 1. The given formula is on python language.
 2. To ease you to understand the code, convert the given formula to normal form first.
 3. ** is mean square, x1**2 mean x1 squared 2 (in case you never see it before)
-4. To make sure the result, use www.wolframalpha.com to see the minimum value of x1 and x2
+4. To make sure the result, use wolframalpha (just google it) to see the minimum value of x1 and x2
