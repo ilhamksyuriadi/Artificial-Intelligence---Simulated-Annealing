@@ -1,3 +1,0 @@
-1. buka program SA.py dengan IDE python apapun
-2. lalu run
-3. hasil akan muncul
