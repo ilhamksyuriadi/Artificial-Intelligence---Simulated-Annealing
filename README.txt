@@ -1,4 +1,5 @@
 # Artificial-Intelligence---Simulated-Annealing
+<<<<<<< HEAD
 Simulated annealing code example
 
 Given formula (on python language):
@@ -12,3 +13,6 @@ Hint:
 2. To ease you to understand the code, convert the given formula to normal form first.
 3. ** is mean square, x1**2 mean x1 squared 2 (in case you never see it before)
 4. To make sure the result, use wolframalpha (just google it) to see the minimum value of x1 and x2
+=======
+Simulated Annealing code example
+>>>>>>> 3fa480778a351121dc23936a4fec164e49f64bdd
