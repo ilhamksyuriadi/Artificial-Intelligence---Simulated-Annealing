@@ -2,6 +2,9 @@
 <<<<<<< HEAD
 Simulated annealing code example
 
+Assumption:
+You already understand the concept of Simulated Annealing
+
 Given formula (on python language):
 f(x1,x2) = (4 - 2.1 * x1**2 + x1**4 / 3) * x1**2 + x1 * x2 + (-4 + 4 * x2**2) * x2**2
 
