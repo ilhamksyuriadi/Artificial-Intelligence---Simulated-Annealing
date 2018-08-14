@@ -1,4 +1,4 @@
-# Artificial-Intelligence---Simulated-Annealing
+# Artificial Intelligence - Simulated Annealing
 Simulated annealing code example
 
 -Assumption:
